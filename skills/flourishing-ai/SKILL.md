@@ -185,5 +185,5 @@ When an AI encounters a request that touches on sensitive topics or safety bound
 - **Research Paper:** "Measuring AI Alignment with Human Flourishing" — arXiv:2507.07787v2
 - **PDF:** https://arxiv.org/pdf/2507.07787
 - **Gloo Flourishing Hub:** https://gloo.com/flourishing-hub/july-2025
-- **Collaboration:** https://gloo.com/ai/flourishing
+- **Collaboration:** https://gloo.com/flourishing-ai
 - **Harvard Human Flourishing Program:** Founded 2016, directed by Dr. Tyler VanderWeele

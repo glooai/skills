@@ -211,4 +211,4 @@ The geometric mean ensures that strong performance in one area cannot mask weakn
 - **Paper:** [arXiv:2507.07787v2](https://arxiv.org/abs/2507.07787) (Submitted 10 Jul 2025, revised 11 Jul 2025)
 - **PDF:** [https://arxiv.org/pdf/2507.07787](https://arxiv.org/pdf/2507.07787)
 - **Gloo Flourishing Hub:** [https://gloo.com/flourishing-hub/july-2025](https://gloo.com/flourishing-hub/july-2025)
-- **Collaboration:** [https://gloo.com/ai/flourishing](https://gloo.com/ai/flourishing)
+- **Collaboration:** [https://gloo.com/flourishing-ai](https://gloo.com/flourishing-ai)
